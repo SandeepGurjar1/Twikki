@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Twikki/static/css/main.a3e167b3.css",
+    "main.js": "/Twikki/static/js/main.4b5a2b03.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Twikki/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/cal.avif": "/Twikki/static/media/cal.4d364a0973576dda412e.avif",
+    "static/media/photo.png": "/Twikki/static/media/photo.29a611e7aebcfc3e078f.png",
+    "index.html": "/Twikki/index.html",
+    "main.a3e167b3.css.map": "/Twikki/static/css/main.a3e167b3.css.map",
+    "main.4b5a2b03.js.map": "/Twikki/static/js/main.4b5a2b03.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Twikki/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e167b3.css",
+    "static/js/main.4b5a2b03.js"
+  ]
+}

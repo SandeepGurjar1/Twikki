@@ -1,5 +1,5 @@
 # Twikki
-                             Assignment of Ojas-Aerospace for building a webapp similar to twitter
+                         Assignment of Ojas-Aerospace for building a webapp similar to twitter
 
 
 
